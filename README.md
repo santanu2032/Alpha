@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_v97d2tv97d2tv97d.png" alt="Alpha Banner" width="100%">
+</p>
+
+
 # Alpha: Offline Android Voice Recognition Module
 
 A lightweight, production-ready sensory module for Android applications. This project provides a bridge between Google ML Kit Speech Recognition (Kotlin) and central application logic (Java).
