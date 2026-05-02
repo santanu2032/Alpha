@@ -44,3 +44,8 @@ link.startAlphaEars(object : Link.TaskListener {
 ## Special Thanks
 - Google ML Kit Team: For the Alpha Speech Recognition SDK.
 - Kotlin Coroutines Team: For background processing.
+
+- ## 🤝 How to Credit
+This project is open-source under the MIT License. If you use this module in your own application, please include the following in your "About" or "Credits" section:
+
+> **Voice Recognition powered by [Alpha](https://github.com/santanu2032/Alpha) by Santanu Sarkar**
